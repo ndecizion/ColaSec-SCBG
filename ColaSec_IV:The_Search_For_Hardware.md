@@ -20,7 +20,7 @@ Our new direction for 2021 is to select hardware for purchase, put it together w
 
 Expanding on this plan, we intend have as much of this scripted as possible, such that we can store the entire configuration for the environment right here in this github repository. This will be a learning curve for all of us, but in the DevOpsy future we're all heading toward, infrastructure, servers, and networking as code will give our members valuable experience.
 
-In the spirit of getting people used to working with GitHub, we'll collaborate on specing the hardware here.
+In the spirit of getting people used to working with GitHub, we'll [collaborate on specing the hardware here](/HardwareSpecs/Proposed_Hardware.md).
 
 # The Bucket and The Beast
 But what of our existing hardware?  It's not bound for the scrap heap quite yet.
