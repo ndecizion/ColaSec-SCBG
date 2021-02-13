@@ -5,9 +5,10 @@ note: you can sort these tables if you install the one of [these Monkey addons](
 All devices need to be VPN capable
 
 | Model | Model Number | L Ports | W Ports | Wifi | Support Plan | Price |
-|-------|--------------|---------|---------|------|---------|-------|
-| [Check Point 1530 NGA](https://www.checkfirewalls.com/1530.asp) | CPAP-SG1530-NGTP-SS-PREM-1Y | 5 | 1 | N | Y | [$977](https://www.cdw.com/product/check-point-1530-appliance-security-appliance-with-1-year-next-generati/6114027) |
-| [Cisco Fireepower 1010](https://www.cisco.com/c/en/us/products/security/firepower-1000-series/index.html#~why-cisco) | FPR1010-NGFW-K9 | 7 | 1 | N | Y | [$952](https://www.cdw.com/product/cisco-firepower-1010-next-generation-firewall-firewall/5614833) |
+|-------|--------------|---------|---------|------|--------------|-------|
+| [Check Point 1530 NGA](https://www.checkfirewalls.com/1530.asp) | CPAP-SG1530 | 5 | 1 | N | N | [$543.99](https://www.cdw.com/product/check-point-1530-appliance-security-appliance/6006195?pfm=srh) |
+| [Check Point 1530 NGA](https://www.checkfirewalls.com/1530.asp) | CPAPSG1530WUSNGFWSSPREM1Y | 5 | 1 | Y | Y | [$779.99](https://www.cdw.com/product/check-point-1530-appliance-security-appliance-with-1-year-next-generati/6090059?pfm=srh) |
+| [Cisco Fireepower 1010](https://www.cisco.com/c/en/us/products/security/firepower-1000-series/index.html#~why-cisco) | FPR1010-NGFW-K9 | 7 | 1 | N | Y | [$636.97](https://www.cdw.com/product/cisco-firepower-1010-next-generation-firewall-firewall/5617293?pfm=srh) |
 | [Palo Alto 220 NGFW](https://www.paloaltonetworks.com/network-security/next-generation-firewall/pa-220) | PAN-PA-220 | 7 | 1 | N | Y | [$1400](https://www.reddit.com/r/paloaltonetworks/comments/72x1pe/wheres_the_best_place_to_buy_a_pa220_for_home/) |
 | [Ubiquiti UniFi Gateway Router USG](https://www.ui.com/unifi-routing/usg/) | USG | 1.5 | 1.5 | N | N | [$146](https://www.cdw.com/product/ubiquiti-unifi-usg-security-appliance/3592015?pfm=srh) |
 | [Ubiquiti UniFi Dream Machine](https://store.ui.com/collections/unifi-network-routing-switching/products/unifi-dream-machine) | UDM-US | 4 | 1 | Y | N | [$331](https://www.cdw.com/product/ubiquiti-unifi-dream-machine-wireless-router-802.11a-b-g-n-ac-wave-2/5840138?pfm=srh) |
